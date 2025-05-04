@@ -1,4 +1,4 @@
-python-development-roadmap/
+python-for-development-roadmap/
 ├── Phase_1_Core_Python_Skills/
 │   ├── Topics/
 │   │   ├── basic_syntax.py
